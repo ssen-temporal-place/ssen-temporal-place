@@ -1,4 +1,4 @@
-# Ticket Name: [CPM-000]
+# Ticket's Name: [CPM-000]
 
 ## Resources Added
 1. X
